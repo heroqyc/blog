@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "静态博客网站",
+  "main": "index.js",
+  "author": "yuanCong",
+  "scripts": {
+    "dev": "vuepress dev docs --no-cache",
+    "build": "vuepress build docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^1.7.1",
+    "vuepress-theme-reco": "^1.5.7"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.5"
+  }
+}
