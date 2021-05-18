@@ -11,7 +11,9 @@
   },
   "license": "ISC",
   "devDependencies": {
+    "comments": "^0.3.7",
     "vuepress": "^1.7.1",
+    "vuepress-plugin-meting": "^0.2.3",
     "vuepress-theme-reco": "^1.5.7"
   },
   "dependencies": {
